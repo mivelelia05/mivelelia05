@@ -6,8 +6,7 @@
 
 ### About Me
 
-I'm currently studying Computer Science at GMU and have gained experience in software development, web development, and AI training. I enjoy learning new things, working on different projects, and exploring opportunities in both technology and business.
-
+I'm a Computer Science student at George Mason University with a background in software engineering, web development, and AI training. I'm interested in how technology connects with different industries and enjoy opportunities that allow me to learn, contribute, and develop new skills.
 ### Skills & Technologies
 
 **Programming & Databases**
